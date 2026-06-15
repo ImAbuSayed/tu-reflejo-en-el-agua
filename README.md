@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-reflejo-en-el-agua/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu reflejo en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-reflejo-en-el-agua/) |
+| **Get License** | [Obtain a Music License for Tu reflejo en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-reflejo-en-el-agua/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7eeb17561129008d7730f5aa8815b6843bd01632648945f80271b641956e4e30` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu reflejo en el agua
+
+This log tracks the cryptographic history and versioning for the song **Tu reflejo en el agua** (tu-reflejo-en-el-agua).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T10:59:59.207002 | `v1` | `7eeb17561129008d7730f5aa8815b6843bd01632648945f80271b641956e4e30` | `42ea92057bd2a0c92a71018c9fed9b0c5fc9593b9ca7932071c1f80a27d723f3` | `2026-06-15_tu-reflejo-en-el-agua-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
